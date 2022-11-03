@@ -13,6 +13,24 @@
 		ADAB28B829129F74000ECFF8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADAB28B629129F74000ECFF8 /* Main.storyboard */; };
 		ADAB28BA29129F79000ECFF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADAB28B929129F79000ECFF8 /* Assets.xcassets */; };
 		ADAB28BD29129F79000ECFF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADAB28BB29129F79000ECFF8 /* LaunchScreen.storyboard */; };
+		ADAB28CA2912A7EE000ECFF8 /* WebService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28C92912A7EE000ECFF8 /* WebService.swift */; };
+		ADAB28CC2912A829000ECFF8 /* People.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28CB2912A829000ECFF8 /* People.swift */; };
+		ADAB28CE2912A841000ECFF8 /* Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28CD2912A841000ECFF8 /* Rooms.swift */; };
+		ADAB28D02912AA00000ECFF8 /* EndPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28CF2912AA00000ECFF8 /* EndPoints.swift */; };
+		ADAB28D32912BC90000ECFF8 /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28D22912BC90000ECFF8 /* DashboardViewController.swift */; };
+		ADAB28D52912C05E000ECFF8 /* EmployeeListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28D42912C05E000ECFF8 /* EmployeeListViewController.swift */; };
+		ADAB28D72912C075000ECFF8 /* EmployeeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28D62912C075000ECFF8 /* EmployeeDetailViewController.swift */; };
+		ADAB28D92912C097000ECFF8 /* RoomListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28D82912C097000ECFF8 /* RoomListViewController.swift */; };
+		ADAB28DD2912D0EA000ECFF8 /* EmployeeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28DB2912D0EA000ECFF8 /* EmployeeTableViewCell.swift */; };
+		ADAB28DE2912D0EA000ECFF8 /* EmployeeTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = ADAB28DC2912D0EA000ECFF8 /* EmployeeTableViewCell.xib */; };
+		ADAB28E12912EBDA000ECFF8 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28E02912EBDA000ECFF8 /* Theme.swift */; };
+		ADAB28E42913092C000ECFF8 /* UIImageView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28E32913092C000ECFF8 /* UIImageView+Extensions.swift */; };
+		ADAB28E7291310BC000ECFF8 /* RoomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28E5291310BC000ECFF8 /* RoomTableViewCell.swift */; };
+		ADAB28E8291310BC000ECFF8 /* RoomTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = ADAB28E6291310BC000ECFF8 /* RoomTableViewCell.xib */; };
+		ADAB28EC2913CDFD000ECFF8 /* AlertManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28EB2913CDFD000ECFF8 /* AlertManager.swift */; };
+		ADAB28EE2913D1E1000ECFF8 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28ED2913D1E0000ECFF8 /* LoginViewController.swift */; };
+		ADAB28F02913D8FD000ECFF8 /* LoginManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28EF2913D8FD000ECFF8 /* LoginManager.swift */; };
+		ADAB28F22913E39D000ECFF8 /* UIButton+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB28F12913E39D000ECFF8 /* UIButton+Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +42,24 @@
 		ADAB28B929129F79000ECFF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADAB28BC29129F79000ECFF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADAB28BE29129F79000ECFF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADAB28C92912A7EE000ECFF8 /* WebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
+		ADAB28CB2912A829000ECFF8 /* People.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = People.swift; sourceTree = "<group>"; };
+		ADAB28CD2912A841000ECFF8 /* Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rooms.swift; sourceTree = "<group>"; };
+		ADAB28CF2912AA00000ECFF8 /* EndPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndPoints.swift; sourceTree = "<group>"; };
+		ADAB28D22912BC90000ECFF8 /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
+		ADAB28D42912C05E000ECFF8 /* EmployeeListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeListViewController.swift; sourceTree = "<group>"; };
+		ADAB28D62912C075000ECFF8 /* EmployeeDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeDetailViewController.swift; sourceTree = "<group>"; };
+		ADAB28D82912C097000ECFF8 /* RoomListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomListViewController.swift; sourceTree = "<group>"; };
+		ADAB28DB2912D0EA000ECFF8 /* EmployeeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeTableViewCell.swift; sourceTree = "<group>"; };
+		ADAB28DC2912D0EA000ECFF8 /* EmployeeTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EmployeeTableViewCell.xib; sourceTree = "<group>"; };
+		ADAB28E02912EBDA000ECFF8 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		ADAB28E32913092C000ECFF8 /* UIImageView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+Extensions.swift"; sourceTree = "<group>"; };
+		ADAB28E5291310BC000ECFF8 /* RoomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomTableViewCell.swift; sourceTree = "<group>"; };
+		ADAB28E6291310BC000ECFF8 /* RoomTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RoomTableViewCell.xib; sourceTree = "<group>"; };
+		ADAB28EB2913CDFD000ECFF8 /* AlertManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertManager.swift; sourceTree = "<group>"; };
+		ADAB28ED2913D1E0000ECFF8 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		ADAB28EF2913D8FD000ECFF8 /* LoginManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginManager.swift; sourceTree = "<group>"; };
+		ADAB28F12913E39D000ECFF8 /* UIButton+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIButton+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +92,105 @@
 		ADAB28AF29129F74000ECFF8 /* DirectoryApp */ = {
 			isa = PBXGroup;
 			children = (
+				ADAB28E2291308E2000ECFF8 /* Extensions */,
+				ADAB28DF2912EBC5000ECFF8 /* Resources */,
+				ADAB28C82912A7C6000ECFF8 /* Utility */,
+				ADAB28C72912A7BD000ECFF8 /* Services */,
+				ADAB28C42912A713000ECFF8 /* Model */,
+				ADAB28C52912A790000ECFF8 /* Views */,
+				ADAB28C62912A79F000ECFF8 /* Controllers */,
 				ADAB28B029129F74000ECFF8 /* AppDelegate.swift */,
 				ADAB28B229129F74000ECFF8 /* SceneDelegate.swift */,
-				ADAB28B429129F74000ECFF8 /* ViewController.swift */,
-				ADAB28B629129F74000ECFF8 /* Main.storyboard */,
-				ADAB28B929129F79000ECFF8 /* Assets.xcassets */,
-				ADAB28BB29129F79000ECFF8 /* LaunchScreen.storyboard */,
 				ADAB28BE29129F79000ECFF8 /* Info.plist */,
 			);
 			path = DirectoryApp;
+			sourceTree = "<group>";
+		};
+		ADAB28C42912A713000ECFF8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ADAB28CB2912A829000ECFF8 /* People.swift */,
+				ADAB28CD2912A841000ECFF8 /* Rooms.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		ADAB28C52912A790000ECFF8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ADAB28DA2912D051000ECFF8 /* Cells */,
+				ADAB28D12912AFC4000ECFF8 /* StoryBoards */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ADAB28C62912A79F000ECFF8 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				ADAB28B429129F74000ECFF8 /* ViewController.swift */,
+				ADAB28D22912BC90000ECFF8 /* DashboardViewController.swift */,
+				ADAB28D42912C05E000ECFF8 /* EmployeeListViewController.swift */,
+				ADAB28D62912C075000ECFF8 /* EmployeeDetailViewController.swift */,
+				ADAB28D82912C097000ECFF8 /* RoomListViewController.swift */,
+				ADAB28ED2913D1E0000ECFF8 /* LoginViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		ADAB28C72912A7BD000ECFF8 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				ADAB28C92912A7EE000ECFF8 /* WebService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		ADAB28C82912A7C6000ECFF8 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				ADAB28CF2912AA00000ECFF8 /* EndPoints.swift */,
+				ADAB28EB2913CDFD000ECFF8 /* AlertManager.swift */,
+				ADAB28EF2913D8FD000ECFF8 /* LoginManager.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		ADAB28D12912AFC4000ECFF8 /* StoryBoards */ = {
+			isa = PBXGroup;
+			children = (
+				ADAB28B629129F74000ECFF8 /* Main.storyboard */,
+				ADAB28BB29129F79000ECFF8 /* LaunchScreen.storyboard */,
+			);
+			path = StoryBoards;
+			sourceTree = "<group>";
+		};
+		ADAB28DA2912D051000ECFF8 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				ADAB28DB2912D0EA000ECFF8 /* EmployeeTableViewCell.swift */,
+				ADAB28DC2912D0EA000ECFF8 /* EmployeeTableViewCell.xib */,
+				ADAB28E5291310BC000ECFF8 /* RoomTableViewCell.swift */,
+				ADAB28E6291310BC000ECFF8 /* RoomTableViewCell.xib */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		ADAB28DF2912EBC5000ECFF8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ADAB28E02912EBDA000ECFF8 /* Theme.swift */,
+				ADAB28B929129F79000ECFF8 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		ADAB28E2291308E2000ECFF8 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				ADAB28E32913092C000ECFF8 /* UIImageView+Extensions.swift */,
+				ADAB28F12913E39D000ECFF8 /* UIButton+Extensions.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +251,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADAB28E8291310BC000ECFF8 /* RoomTableViewCell.xib in Resources */,
 				ADAB28BD29129F79000ECFF8 /* LaunchScreen.storyboard in Resources */,
+				ADAB28DE2912D0EA000ECFF8 /* EmployeeTableViewCell.xib in Resources */,
 				ADAB28BA29129F79000ECFF8 /* Assets.xcassets in Resources */,
 				ADAB28B829129F74000ECFF8 /* Main.storyboard in Resources */,
 			);
@@ -138,9 +266,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADAB28EE2913D1E1000ECFF8 /* LoginViewController.swift in Sources */,
 				ADAB28B529129F74000ECFF8 /* ViewController.swift in Sources */,
+				ADAB28EC2913CDFD000ECFF8 /* AlertManager.swift in Sources */,
 				ADAB28B129129F74000ECFF8 /* AppDelegate.swift in Sources */,
+				ADAB28D52912C05E000ECFF8 /* EmployeeListViewController.swift in Sources */,
+				ADAB28CE2912A841000ECFF8 /* Rooms.swift in Sources */,
+				ADAB28E12912EBDA000ECFF8 /* Theme.swift in Sources */,
+				ADAB28D02912AA00000ECFF8 /* EndPoints.swift in Sources */,
+				ADAB28E7291310BC000ECFF8 /* RoomTableViewCell.swift in Sources */,
+				ADAB28DD2912D0EA000ECFF8 /* EmployeeTableViewCell.swift in Sources */,
+				ADAB28CA2912A7EE000ECFF8 /* WebService.swift in Sources */,
+				ADAB28E42913092C000ECFF8 /* UIImageView+Extensions.swift in Sources */,
+				ADAB28F22913E39D000ECFF8 /* UIButton+Extensions.swift in Sources */,
 				ADAB28B329129F74000ECFF8 /* SceneDelegate.swift in Sources */,
+				ADAB28CC2912A829000ECFF8 /* People.swift in Sources */,
+				ADAB28D32912BC90000ECFF8 /* DashboardViewController.swift in Sources */,
+				ADAB28F02913D8FD000ECFF8 /* LoginManager.swift in Sources */,
+				ADAB28D72912C075000ECFF8 /* EmployeeDetailViewController.swift in Sources */,
+				ADAB28D92912C097000ECFF8 /* RoomListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,7 +361,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -272,7 +416,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
